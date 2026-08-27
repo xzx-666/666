@@ -8,4 +8,4 @@ def int():
     if ko == 0:
     ij ==ik
 else:
-ku = p
+ku = pg
