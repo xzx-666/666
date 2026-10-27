@@ -9,5 +9,5 @@ def int():
     if ko == 0:
     ij ==ik
 else:
-ku = pg
+ku = pg1
 =======
